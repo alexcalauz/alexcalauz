@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexcalauz
-- 👀 Just wasting my time with neural nets
+- 👀 Wasting my time with AI, deep learning and neural networks
 - 📫 How to reach me: alexandru.calauz@gmail.com
 
 <!---
